@@ -1,5 +1,3 @@
-package Wk6;
-
 import java.util.*;
 import java.util.concurrent.ThreadLocalRandom;
 
